@@ -1,3 +1,3 @@
-John Mathew R. Pua
-IT128-FOPI01
+John Mathew Pua
+IT128L-FOPI01
 BSIT
