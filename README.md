@@ -1,6 +1,3 @@
-"# Pua-IT128." 
-"# Pua-IT128." 
-"# Pua-IT128." 
-"# Pua-IT128." 
-"# Pua-IT128." 
-"# Pua-IT128." 
+John Mathew Pua
+IT128L-FOPI01
+BSIT
